@@ -45,9 +45,18 @@ O projeto é organizado em pacotes:
 
 ## 🖼️ Diagramas UML
 
-O Diagrama de Classes abaixo apresenta uma visão geral das principais classes, seus relacionamentos e as responsabilidades centrais do sistema. Ele evidencia a separação entre modelo, lógica de negócio e entrada de dados.
+### 📌 Diagrama de Classes
+Apresenta uma visão geral das principais classes, seus relacionamentos e as responsabilidades centrais do sistema. Ele evidencia a separação entre modelo, lógica de negócio e entrada de dados.
 
-![Diagrama UML](docs/diagrama-classes.png)
+![Diagrama de Classes](docs/diagrama-classes.png)
+
+---
+
+### 📌 Diagrama de Casos de Uso
+
+O diagrama de casos de uso representa as interações do aluno com o sistema. Ele descreve as funcionalidades principais acessadas via terminal: desde a matrícula até a geração do parecer com as atividades validadas.
+
+![Diagrama de Casos de Uso](docs/diagrama-casouso.png)
 
 ---
 
