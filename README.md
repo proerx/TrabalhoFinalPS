@@ -75,9 +75,9 @@ O diagrama de casos de uso representa as interações do aluno com o sistema. El
 
 ---
 
-## 📅 Entrega
+## 👤 Autores
 
-- **👤 Autores: Haruan Rechia da Silva, Pedro Henrique Martins Santos e Raul Nandi de Pieri**  
+- Haruan Rechia da Silva, Pedro Henrique Martins Santos e Raul Nandi de Pieri
 - Este repositório representa a versão final entregue para avaliação.
 
 ---
